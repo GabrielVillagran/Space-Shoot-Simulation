@@ -1,0 +1,19 @@
+C:\Users\Usuario\source\repos\Simulación IG\Simulación IG\bin\Debug\Simulación IG.exe.config
+C:\Users\Usuario\source\repos\Simulación IG\Simulación IG\bin\Debug\Simulación IG.exe
+C:\Users\Usuario\source\repos\Simulación IG\Simulación IG\bin\Debug\Simulación IG.pdb
+C:\Users\Usuario\source\repos\Simulación IG\Simulación IG\obj\Debug\Simulación IG.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Simulación IG\Simulación IG\obj\Debug\Simulación_IG.Mundo.resources
+C:\Users\Usuario\source\repos\Simulación IG\Simulación IG\obj\Debug\Simulación_IG.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Simulación IG\Simulación IG\obj\Debug\Simulación IG.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Simulación IG\Simulación IG\obj\Debug\Simulación IG.exe
+C:\Users\Usuario\source\repos\Simulación IG\Simulación IG\obj\Debug\Simulación IG.pdb
+C:\Users\rubi-\Desktop\Simulación IG\Simulación IG\bin\Debug\Simulación IG.exe.config
+C:\Users\rubi-\Desktop\Simulación IG\Simulación IG\bin\Debug\Simulación IG.exe
+C:\Users\rubi-\Desktop\Simulación IG\Simulación IG\bin\Debug\Simulación IG.pdb
+C:\Users\rubi-\Desktop\Simulación IG\Simulación IG\obj\Debug\Simulación IG.csprojAssemblyReference.cache
+C:\Users\rubi-\Desktop\Simulación IG\Simulación IG\obj\Debug\Simulación_IG.Mundo.resources
+C:\Users\rubi-\Desktop\Simulación IG\Simulación IG\obj\Debug\Simulación_IG.Properties.Resources.resources
+C:\Users\rubi-\Desktop\Simulación IG\Simulación IG\obj\Debug\Simulación IG.csproj.GenerateResource.cache
+C:\Users\rubi-\Desktop\Simulación IG\Simulación IG\obj\Debug\Simulación IG.csproj.CoreCompileInputs.cache
+C:\Users\rubi-\Desktop\Simulación IG\Simulación IG\obj\Debug\Simulación IG.exe
+C:\Users\rubi-\Desktop\Simulación IG\Simulación IG\obj\Debug\Simulación IG.pdb
