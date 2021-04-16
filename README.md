@@ -1,6 +1,6 @@
 # Space-Shoot-Simulation
 Hi everyone here you can find the code of our project that is based on a space canon, we are using threads for every planet that is on screen
-this projet was made by Cerda Estrada Jose Martin and Villagran Saucedo Gabriel Aldair for the signature Interfaces Graficas con aplicaciones given by
+this project was made by Cerda Estrada Jose Martin and Villagran Saucedo Gabriel Aldair for the signature Interfaces Graficas con aplicaciones given by
 the Doctor Alberto Salvador Nuñez Varela.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
  Universidad Autónoma de San Luis Potosí
